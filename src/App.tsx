@@ -1,26 +1,16 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Route, BrowserRouter as Router } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import Homelanding from "./components/Homelanding";
+import RockSiccorsPaper from "./components/RockSiccorsPaper";
+
+const App = () => {
+    return (
+        <Router basename={process.env.PUBLIC_URL}>
+            <Route exact path="/" component={Homelanding} />
+            <Route exact path="/rsp" component={RockSiccorsPaper} />
+        </Router>
+    );
+};
 
 export default App;
