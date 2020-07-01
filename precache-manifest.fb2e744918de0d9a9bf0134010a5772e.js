@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5101a2aa4d14ddc2f8dc4aabb59f71e4",
+    "revision": "68fcc210f846a492ef73a25fbb22bc2b",
     "url": "/toybox/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toybox/static/css/2.cbdddf7c.chunk.css"
   },
   {
-    "revision": "2c7f6682f4e8adb666f0",
+    "revision": "4b5161a56ae39addf917",
     "url": "/toybox/static/css/main.9b0a7f1b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toybox/static/js/2.4fdddbbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c7f6682f4e8adb666f0",
-    "url": "/toybox/static/js/main.8876f72a.chunk.js"
+    "revision": "4b5161a56ae39addf917",
+    "url": "/toybox/static/js/main.94ff467f.chunk.js"
   },
   {
     "revision": "a1ab92403883303692fc",
