@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/toybox/static/css/main.e3315599.chunk.css",
+    "main.css": "/toybox/static/css/main.d8a4d42d.chunk.css",
     "main.js": "/toybox/static/js/main.677edeb5.chunk.js",
     "main.js.map": "/toybox/static/js/main.677edeb5.chunk.js.map",
     "runtime-main.js": "/toybox/static/js/runtime-main.f7de4ca1.js",
@@ -9,17 +9,17 @@
     "static/js/2.264463ba.chunk.js": "/toybox/static/js/2.264463ba.chunk.js",
     "static/js/2.264463ba.chunk.js.map": "/toybox/static/js/2.264463ba.chunk.js.map",
     "index.html": "/toybox/index.html",
-    "precache-manifest.072677f8654cdc88fbb48768859ca42d.js": "/toybox/precache-manifest.072677f8654cdc88fbb48768859ca42d.js",
+    "precache-manifest.95a94ce541682b09ba665b305d80bb44.js": "/toybox/precache-manifest.95a94ce541682b09ba665b305d80bb44.js",
     "service-worker.js": "/toybox/service-worker.js",
     "static/css/2.cbdddf7c.chunk.css.map": "/toybox/static/css/2.cbdddf7c.chunk.css.map",
-    "static/css/main.e3315599.chunk.css.map": "/toybox/static/css/main.e3315599.chunk.css.map",
+    "static/css/main.d8a4d42d.chunk.css.map": "/toybox/static/css/main.d8a4d42d.chunk.css.map",
     "static/js/2.264463ba.chunk.js.LICENSE.txt": "/toybox/static/js/2.264463ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f7de4ca1.js",
     "static/css/2.cbdddf7c.chunk.css",
     "static/js/2.264463ba.chunk.js",
-    "static/css/main.e3315599.chunk.css",
+    "static/css/main.d8a4d42d.chunk.css",
     "static/js/main.677edeb5.chunk.js"
   ]
 }
